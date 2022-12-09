@@ -3,24 +3,27 @@
 #include <time.h>
 /**
  * main - Entry point
- * Author - Daniel
- * Date - 09-12-2022
- * Details: A program that prints +ve, Zero and -ve results of random number
- * Return: 0 (success)
+ * Author: IamNaeto
+ *  Date: 09-08-2022
+ *  Details: C program to print +ve, zero and -ve results of a random number
+ *  Return: 0 (success) 
  */
 int main(void)
+
 {
-	int n;
+		int n;
+		
+		srand(time(0));
+		n = rand() - RAND_MAX / 2;
 
-
-	strand(time(0));
-	n = rand() - RAND_MAX / 2;
-
-	if (n > 0)
-		printf("%d is positive\n", n);
-	else if (n == 0)
-		printf("%d is zero\n", n);
-	else if (n < 0)
-		printf("%d is negative\n", n);
-	return (0);
+		if (n > 0)
+			printf("%d is positive\n", n);
+		else if (n == 0)
+			
+			printf("%d is zero\n", n);
+		
+		else if (n < 0)
+			
+			printf("%d is negative\n", n);
+		return (0);
 }
