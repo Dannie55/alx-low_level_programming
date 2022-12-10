@@ -1,16 +1,16 @@
 #include <stdio.h>
 
-/** main - Entry point
- *  author: daniel
- *  Return: Always 0 (success)
- *
+/**
+ * main - Entry point
+ * author: IamNaeto
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-	int dannie;
+	int naeto;
 
-	for(dannie = 48 ; dannie < 58 ; dannie++)
-		putchar(dannie);
-	putchar( '\n');
+	for (naeto = 48 ; naeto < 58 ; naeto++)
+		putchar(naeto);
+	putchar('\n');
 	return (0);
 }
