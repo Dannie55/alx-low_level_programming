@@ -10,6 +10,6 @@ int main(void)
 
 	for(dannie = 48 ; dannie < 58 ; dannie++)
 		putchar(dannie);
-	putchar('\n');
+	putchar( '\n' );
 	return (0);
 }
