@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
-* main - Entry point
-*
-* Return: Always 0 (Success)
-* Date: 09-12-2022
-*/
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ * Date: 09-08-2022
+ */
 int main(void)
 {
 	int i, j, k;
