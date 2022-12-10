@@ -2,7 +2,7 @@ include <stdio.h>
 
 /**
  * main - Entry point
- * author: IamNaeto
+ * author: Dannie
  * Return: Always 0 (Success)
  */
 int main(void)
