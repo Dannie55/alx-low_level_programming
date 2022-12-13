@@ -3,11 +3,11 @@
  * main - Entry point
  *
  * Return: Always 0 (Success)
- * Date: 09-08-2022
+ * Date: 09-12-2022
  */
 int main(void)
 {
-	int i, j, k;
+        int i, j, k;
 
 	for (i = 48 ; i < 58 ; i++)
 	{
