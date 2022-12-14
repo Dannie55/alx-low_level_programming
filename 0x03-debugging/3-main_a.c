@@ -2,12 +2,12 @@
 #include "main.h"
 
 /**
-  * main - takes a date and prints how many days are left in the year, taking
-  * leap years into account
-  * Return: 0
-  */
+* main - takes a date and prints how many days are left in the year, taking
+* leap years into account
+* Return: 0
+*/
 
-int main (void)
+int main(void)
 {
 	int month;
 	int day;
@@ -21,8 +21,7 @@ int main (void)
 
 	day = convert_day(month, day);
 
-	printf_remaining_days(month, day, year);
+	print_remaining_days(month, day, year);
 
 	return (0);
 }
-
