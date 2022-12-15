@@ -1,18 +1,16 @@
 #include "main.h"
 
 /**
-  * print_line - prints line
-  * @n: param
-  */
+ * print_numbers - prints number
+ */
 
-void print_line(int n)
+void print_numbers(void)
 {
-	int i = 1;
+	int i;
 
-	while (i <= n)
+	for (i = 48; i < 58; i++)
 	{
-		_putchar(95);
-		i++;
+		_putchar(i);
 	}
 	_putchar('\n');
 }
