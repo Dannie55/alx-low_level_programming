@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
-  * print_square - prints square
-  * @size: param
-  */
+ * print_square - prints square
+ * @size: param
+ */
 
 void print_square(int size)
 {
@@ -19,5 +19,5 @@ void print_square(int size)
 		}
 	}
 	else
-		_putchar('\n')
+		_putchar('\n');
 }
