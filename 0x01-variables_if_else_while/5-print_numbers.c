@@ -2,16 +2,16 @@
 
 /**
  * main - Entry point
- * author: IamNaeto
+ * author: Dannie
  * Return: Always 0 (Success/correct)
  */
 int main(void)
 {
 	int naeto;
 
-	for (naeto = 0 ; naeto < 10 ; naeto++)
+	for (dannie = 0 ; dannie < 10 ; dannie++)
 	{
-		printf("%d", naeto);
+		printf("%d", dannie);
 	}
 	printf("\n");
 	return (0);
