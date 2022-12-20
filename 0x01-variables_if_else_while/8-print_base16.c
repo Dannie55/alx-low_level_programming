@@ -7,7 +7,7 @@
 int main(void)
 {
 	int naeto;
-	char charlie;
+	char ezirim;
 
 	for (dannie = 48 ; dannie < 58 ; dannie++)
 		putchar(dannie);
