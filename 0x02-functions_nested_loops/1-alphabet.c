@@ -1,18 +1,16 @@
 #include "main.h"
 
 /**
-  * print_alphabet - entry point
-  * Return: 0
-  */
-
-void print_alphabet(void)
+ * add - adds two integers and returns the result
+ * @a: int to be added to b
+ * @b: int to be added to a
+ * Return: sum of a and b
+ */
+int add(int a, int b)
 {
-	char c = 'a';
+	int c;
 
-	while (c <= 'z')
-	{
-		_putchar(c);
-		c++;
-	}
-	_putchar('\n');
+	c = a + b;
+
+	return (c);
 }

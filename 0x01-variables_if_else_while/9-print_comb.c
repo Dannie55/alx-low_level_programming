@@ -2,17 +2,17 @@
 
 /**
  * main - Entry point
- * author: Dannie
+ * author: IamNaeto
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-	int dannie;
+	int naeto;
 
-	for (dannie = 48 ; dannie < 58 ; dannie++)
+	for (naeto = 48 ; naeto < 58 ; naeto++)
 	{
-		putchar(dannie);
-		if (dannie != 57)
+		putchar(naeto);
+		if (naeto != 57)
 		{
 			putchar(',');
 			putchar(' ');

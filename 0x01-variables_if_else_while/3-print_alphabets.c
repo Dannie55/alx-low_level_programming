@@ -1,10 +1,9 @@
 #include <stdio.h>
+
 /**
  * main - Entry point
  *
- * Author: Daniel
- *
- * Return: 0 (success)
+ * Return: Always 0 (Success/correct)
  */
 int main(void)
 {

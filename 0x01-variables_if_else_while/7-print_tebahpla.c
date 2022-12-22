@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - Entry
- * author: daniel
+ * main - Entry point
+ * author: dannie
  * Return: Always 0 (Success)
  */
 int main(void)

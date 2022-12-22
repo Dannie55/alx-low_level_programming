@@ -2,15 +2,15 @@
 
 /**
  * main - Entry point
- * author: IamNaeto
+ * author: Dannie
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-	int naeto;
+	int dannie;
 
-	for (naeto = 48 ; naeto < 58 ; naeto++)
-		putchar(naeto);
+	for (dannie = 48 ; dannie < 58 ; dannie++)
+		putchar(dannie);
 	putchar('\n');
 	return (0);
 }

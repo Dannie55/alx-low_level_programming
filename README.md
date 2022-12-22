@@ -37,6 +37,12 @@ C programming language is a MUST for students and working professionals to becom
 ## About ##
 LEARNING THE C PROGRAMMING LANGUAGE AND ITS APPILICATION
 
+- This repository consists of all the C programming projects done with [ALX Africa](https://www.alxafrica.com/) Full stack Software Engineering course in partnership with [Holberton School](https://www.holbertonschool.com/) by [Dannie55](https://github.com/Dannie55).
+- All main.c files are prewritten by the school. We build functions that produce a specific output while also taking into consideration edge cases.
+
+---
+
+- C is fun but its not that easy, so I have some [notes](./notes.md) that will actually show you the journey and thought process.
 
 ## Resource
 
@@ -87,35 +93,4 @@ LEARNING THE C PROGRAMMING LANGUAGE AND ITS APPILICATION
 - [Data Structures](./DataStructures) : Code snippets and notes on data structures.
 - [Dynamic Memory Allocation](./dynamic_memory_alloc) : Code snippets and notes on how dynamic memory allocation works with `malloc` and `free`.
 - [Heap vs Stack](./heap_stack) : Code snippets and notes on what is a heap, a stack and how they work.
-- [Simple Shell Concepts](./simple_shell_concepts) : Code snippets and notes on the concept for the simple shell project.
-
----
-
-## Author: EzirimDaniel ##
-
-## Connect with me: ##
-
-<a href="https://linkedin.com/in/ezirimdaniel/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://twitter.com/Dan_hiel/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="45" height="45"/>
-</a>
-
-<a href="https://stackoverflow.com/users/20087165/dan-hiel55">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/512px-Stack_Overflow_icon.svg.png?20190716190036" width="45" height="45"/>
-</a>
-
-<a href="https://www.figma.com/@Dan_hiel55">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
-</a>
-
-<a href="https://replit.com/@danhiel">
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png?20190414162605" width="45" height="45"/>
-</a>
-
-<a href="https://codepen.io/Dan_hiel55/">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" width="45" height="45"/>
-</a>
-
+- [Simple Shell Concepts](./simple_shell_concepts) : Code snippets and notes on the concept for the simple shell 

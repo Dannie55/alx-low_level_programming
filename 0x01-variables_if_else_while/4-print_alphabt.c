@@ -1,18 +1,18 @@
 #include <stdio.h>
 
 /**
- * main - Entry
- * author: daniel
- * Return: Always 0 (Sucess)
+ * main - Entry point
+ * author: IamNaeto
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-	char dannie;
+	char danny;
 
-	for (dannie = 'a' ; dannie <= 'z' ; dannie++)
+	for (danny = 'a' ; danny <= 'z' ; danny++)
 	{
-		if (dannie != 'q' && dannie != 'e')
-			putchar(dannie);
+		if (danny != 'q' && danny != 'e')
+			putchar(danny);
 	}
 	putchar('\n');
 	return (0);

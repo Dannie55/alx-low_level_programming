@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  * main - Entry point
- * Author: Daniel
+ * author: Dannie
  * Return: 0 (success)
  */
 int main(void)

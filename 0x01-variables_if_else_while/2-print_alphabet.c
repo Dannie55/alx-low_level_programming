@@ -1,18 +1,17 @@
 #include <stdio.h>
+
 /**
  * main - Entry point
  *
- * Author: Daniel
- *
- * Return: 0 (success)
+ * Return: Always 0 (Success/correct)
  */
 int main(void)
 {
-	char pam;
+	char dan;
 
-	for (pam = 'a'; pam <= 'z'; pam++)
+	for (dan = 'a'; dan <= 'z'; dan++)
 	{
-		putchar(pam);
+		putchar(dan);
 	}
 	putchar('\n');
 		return (0);

@@ -1,12 +1,13 @@
 #include <stdio.h>
+
 /**
  * main - Entry point
- * author: Daniel
+ * author: Dannie
  * Return: Always 0 (Success/correct)
  */
 int main(void)
 {
-	int dannie;
+	int naeto;
 
 	for (dannie = 0 ; dannie < 10 ; dannie++)
 	{
