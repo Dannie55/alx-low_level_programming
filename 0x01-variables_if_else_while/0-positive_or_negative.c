@@ -3,7 +3,7 @@
 #include <time.h>
 /**
  * main - Entry point
- * Author: IamNaeto
+ * Author: Dannie
  * Date: 09-08-2022
  * Details: C program to print +ve, zero and -ve results of a random number
  * Return: 0 (success)
