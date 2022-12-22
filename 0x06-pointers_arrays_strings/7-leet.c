@@ -1,31 +1,25 @@
 #include "main.h"
 
 /**
- * cap_string - capitalizes everey word of a string
- * @s: string to modify
+ * leet - encodes a string in 1337
+ * @s: string to be encoded
  *
- * Return: the resulting string
+ * Return: the resulting string;
  */
-char *cap_string(char *s)
+char *leet(char *s)
 {
 	int i, j;
 
-	char spe[13] = {' ', '\t', '\n', ',', ';', '.',
-		'!', '?', '"', '(', ')', '{', '}'};
+	char *a = "aAeEoOtTlL";
+	char *b = "4433007711";
 
 	for (i = 0; s[i] != '\0'; i++)
 	{
-		if (i == 0 && s[i] >= 'a' && s[i] <= 'z')
-			s[i] -= 32;
-
-		for (j = 0; j < 13; j++)
+		for (j = 0; j < 10; j++)
 		{
-			if (s[i] == spe[j])
+			if (s[i] == a[j])
 			{
-				if (s[i + 1] >= 'a' && s[i + 1] <= 'z')
-				{
-					s[i + 1] -= 32;
-				}
+				s[i] = b[j];
 			}
 		}
 	}
