@@ -20,7 +20,7 @@ int helper(int a, int b)
 }
 /**
   * _sqrt_recursion- a functions that returns the natural square of number
-  * @n- the number to return the square root of
+  * @n: the number to return the square root of
   * Return: the square root of @n
   */
 int _sqrt_recursion(int n)
