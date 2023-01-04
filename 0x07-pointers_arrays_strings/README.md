@@ -1,4 +1,4 @@
-# 0x05. C - Pointers, arrays and strings.
+# 0x07. C - Pointers, arrays and strings.
 
 ## Resources
 
