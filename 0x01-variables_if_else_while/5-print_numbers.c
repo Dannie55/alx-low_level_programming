@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	int naeto;
+	int dannie;
 
 	for (dannie = 0 ; dannie < 10 ; dannie++)
 	{
