@@ -2,12 +2,12 @@
 #include <stdlib.h>
 #include "main.h"
 /**
-  * malloc_checked - allocates memory using malloc
-  *@b: integer variable holding the memory
-  *Author: Dannie
-  *Return: 0 means program was successful
+  * malloc_checked - A function that allocates memory using malloc
+  * @b: integer variable that holds the memory size
+  * Author: Dannie
+  * Reeturn: 0 means program was successful
   */
-void *malloc_checked(unsigned int b);
+void *malloc_checked(unsigned int b)
 {
 	void *ptr;
 
