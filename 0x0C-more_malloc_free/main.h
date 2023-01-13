@@ -1,7 +1,6 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-<<<<<<< HEAD
 #include <limits.h>
 =======
 >>>>>>> 5bf01f7c1d4ec1f8dc0317baf8bfc4df3053c64a
