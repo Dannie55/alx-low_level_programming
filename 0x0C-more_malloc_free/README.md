@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-0x0C-More malloc, free
-=======
+
 # 0x0C. C - More malloc, free 
 
 ## Resource
