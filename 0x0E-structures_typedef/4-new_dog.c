@@ -2,21 +2,21 @@
 #include <stdlib.h>
 
 /**
-  * new_dog - A function that creates a new dog
-  * @name: name of the dog.
-  * @age: age of the dog
-  * @owner: owner of the dog.
-  *
-  * Return: struct dog
-  * if it fails, return NULL.
-  */
+ * new_dog - creates a new dog.
+ * @name: name of the dog.
+ * @age: age of the dog.
+ * @owner: owner of the dog.
+ *
+ * Return: struct dog.
+ * if fails, returns NULL.
+ */
 dog_t *new_dog(char *name, float age, char *owner)
 {
 	dog_t *p_dog;
 	int i, lname, lowner;
 
 	p_dog = malloc(sizeof(*p_dog));
-	if (P_dog == NULL || !(name) || !(owner))
+	if (p_dog == NULL || !(name) || !(owner))
 	{
 		free(p_dog);
 		return (NULL);
