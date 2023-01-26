@@ -4,7 +4,7 @@
 /**
   * free_list - frees a linked list
   * @head: the pointer to the first node of linked list
-  * 
+  *
   * Return
   */
 void free_list(list_t *head)
